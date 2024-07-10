@@ -900,7 +900,7 @@
 
 *   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-*   [bytedance/scene](https://github.com/bytedance/scene) - Android Single Activity Applications framework without Fragment.
+*   [bytedance/scene](https://github.com/bytedance/scene) - Android Single Activity Applications Framework without Fragment.
 
 *   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
 
