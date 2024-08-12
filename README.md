@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Solidity](#solidity)
 *   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -54,7 +55,10 @@
 *   [MATLAB](#matlab)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
-*   [Matlab](#matlab-1)
+
+## Solidity
+
+*   [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡......
 
 ## Go
 
@@ -390,7 +394,7 @@
 
 *   [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
 
-*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持剪贴板、OCR、HOOK等。Visual Novel translate tool , support clipboard / OCR/ HOOK
+*   [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) - Galgame翻译器，支持HOOK、OCR、剪贴板等。Visual Novel Translator , support HOOK / OCR / clipboard
 
 *   [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
 
@@ -1535,9 +1539,5 @@
 ## SCSS
 
 *   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
-
-## Matlab
-
-*   [schneems/Octave](https://github.com/schneems/Octave) - my octave exercises for 2011 stanford machine learning class, posted after the due date of course
 
 *   By [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
