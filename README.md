@@ -13,13 +13,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [C++](#c)
 *   [Solidity](#solidity)
 *   [Go](#go)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [C++](#c)
-*   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -55,6 +55,220 @@
 *   [MATLAB](#matlab)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
+
+## miscellaneous
+
+*   [yudataguy/Awesome-Japanese](https://github.com/yudataguy/Awesome-Japanese) - Awesome Japanese Learning Resources
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+*   [NAOSI-DLUT/Campus2025](https://github.com/NAOSI-DLUT/Campus2025) - 2025届互联网校招信息汇总
+
+*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
+
+*   [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
+
+*   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
+
+*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
+
+*   [GoldenMelon-Studio/chinagpt-4](https://github.com/GoldenMelon-Studio/chinagpt-4) - Linux.do
+
+*   [ivanallen/thor](https://github.com/ivanallen/thor) - 雷神项目，翻译 mit 6.824 2020
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [ccceye/computer-book](https://github.com/ccceye/computer-book) - collection of Computer Book
+
+*   [remzi-arpacidusseau/ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute!
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
+
+*   [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
+
+*   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
+
+*   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
+
+*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
+
+*   [HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed](https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed) - supplements material of Computer Networking: A Top-Down Approach, 7th ed. (By J.F. Kurose and K.W. Ross)
+
+*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
+
+*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+
+*   [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
+
+*   [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑
+
+*   [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
+
+*   [Ayagikei/LifeUp](https://github.com/Ayagikei/LifeUp) - Pure and highly customizable gamified to-do and habit-forming app.
+
+*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+
+*   [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
+
+*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify (iTunes, Apple Music, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动歌词的软件。(iTunes、Apple Music、Music Center、QQ音乐、网易云音乐、YesPlayMusic 仅 Lyricify 3 支持)
+
+*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
+
+*   [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one) - 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
+
+*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+
+*   [AugustusZ/cipher](https://github.com/AugustusZ/cipher) - Solutions for http://www.gamemastertips.com/cipher/cipher.htm
+
+*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
+
+*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
+
+*   [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
+
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+
+*   [harlanhong/awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation) -
+
+*   [DejavuMoe/Smoji](https://github.com/DejavuMoe/Smoji) - Social emoji for mastodon, pleroma, misskey...
+
+*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
+
+*   [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
+
+*   [tvvocold/how2makemoney](https://github.com/tvvocold/how2makemoney) - 帮助开发者赚钱的网站、产品/服务目录
+
+*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
+
+*   [githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国外游戏、vpn、vpn推荐、每天更新、上外网、外网、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、代理服务器、机场、马里奥、魔兽世界、poshMark、亚马逊、虾皮、煤炉、Mercari、外贸
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
+
+*   [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
+
+*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
+
+*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
+
+*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
+*   [1837620622/jdpro](https://github.com/1837620622/jdpro) - 京东签到，集合库，内部助力，青龙面板支持，青龙脚本
+
+*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+
+*   [heptameta/project-meta](https://github.com/heptameta/project-meta) -
+
+*   [vvmcat/Github-SpeedUpTool](https://github.com/vvmcat/Github-SpeedUpTool) - Github-SpeedUpTool\_Github访问加速工具
+
+*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
+
+*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
+
+*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
+
+*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
+
+*   [AriaLyy/Aria](https://github.com/AriaLyy/Aria) -
+
+*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
+
+*   [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
+
+*   [smlbiobot/cr](https://github.com/smlbiobot/cr) - Clash Royale: data and cards
+
+*   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
+
+*   [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
+
+*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
+
+*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
+
+*   [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses) - 😏国内外计算机的优秀课程，包含MIT、CMU等世界CS名校，🔥🔥其中包含计算机基础学科（操作系统、计算机网络、编译器、数据库、数据结构与算法等）以及人工智能\&AI等高级科目，欢迎通过PR形式贡献！
+
+## C++
+
+*   [taku910/mecab](https://github.com/taku910/mecab) - Yet another Japanese morphological analyzer
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+
+*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+
+*   [aiqinxuancai/discord-proxy](https://github.com/aiqinxuancai/discord-proxy) - 给Discord的Windows客户端添加代理，Add a proxy to discord windows client
+
+*   [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
+
+*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
+
+*   [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用
+
+*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+
+*   [aa2g/AA2Unlimited](https://github.com/aa2g/AA2Unlimited) - Modding framework for Artificial Academy 2
+
+*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
+
+*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
+
+*   [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
+
+*   [Eun/MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
+
+*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
+
+*   [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
+
+*   [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
+
+*   [royqh1979/RedPanda-CPP](https://github.com/royqh1979/RedPanda-CPP) - A light-weight C/C++ IDE based on Qt
+
+*   [huaxz1986/cplusplus-\_Implementation\_Of\_Introduction\_to\_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) - 《算法导论》第三版中算法的C++实现
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
+
+*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
+
+*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+
+*   [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
+
+*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
+
+*   [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+
+*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
+
+*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
+
+*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+
+*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [matthewsamuel95/ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
+
+*   [yogykwan/acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
 
 ## Solidity
 
@@ -838,218 +1052,6 @@
 
 *   [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) - 强大的哔哩哔哩增强脚本
 
-## C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
-
-*   [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-
-*   [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
-
-*   [aiqinxuancai/discord-proxy](https://github.com/aiqinxuancai/discord-proxy) - 给Discord的Windows客户端添加代理，Add a proxy to discord windows client
-
-*   [Alex313031/thorium](https://github.com/Alex313031/thorium) - Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-
-*   [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) -
-
-*   [ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot) - PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用
-
-*   [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-
-*   [aa2g/AA2Unlimited](https://github.com/aa2g/AA2Unlimited) - Modding framework for Artificial Academy 2
-
-*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
-
-*   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
-
-*   [ztxz16/fastllm](https://github.com/ztxz16/fastllm) - 纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行
-
-*   [Eun/MoveToDesktop](https://github.com/Eun/MoveToDesktop) - Move windows using hotkeys or the system menu
-
-*   [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) - Wechat Chat History Exporter 微信聊天记录导出备份程序
-
-*   [MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM) - NCM 软件插件管理器
-
-*   [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
-
-*   [royqh1979/RedPanda-CPP](https://github.com/royqh1979/RedPanda-CPP) - A light-weight C/C++ IDE based on Qt
-
-*   [huaxz1986/cplusplus-\_Implementation\_Of\_Introduction\_to\_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms) - 《算法导论》第三版中算法的C++实现
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
-
-*   [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
-
-*   [TDesktop-x64/tdesktop](https://github.com/TDesktop-x64/tdesktop) - 64Gram (unofficial Telegram Desktop)
-
-*   [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-
-*   [cinit/WSAPatch](https://github.com/cinit/WSAPatch) - Make WSA(Windows Subsystem for Android) run on Windows 10.
-
-*   [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
-
-*   [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
-
-*   [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) - Notepad++ official repository
-
-*   [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
-
-*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-
-*   [AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI) - Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, RTX Video Super Resolution VSR, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [matthewsamuel95/ACM-ICPC-Algorithms](https://github.com/matthewsamuel95/ACM-ICPC-Algorithms) - Algorithms used in Competitive Programming
-
-*   [yogykwan/acm-challenge-workbook](https://github.com/yogykwan/acm-challenge-workbook) - 《挑战程序设计竞赛》习题册攻略
-
-## miscellaneous
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-
-*   [NAOSI-DLUT/Campus2025](https://github.com/NAOSI-DLUT/Campus2025) - 2025届互联网校招信息汇总
-
-*   [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
-
-*   [gostor/awesome-go-storage](https://github.com/gostor/awesome-go-storage) - A curated list of awesome Go storage projects and libraries
-
-*   [soruly/awesome-acg](https://github.com/soruly/awesome-acg) - A curated list of awesome technologies related to Anime, Comic and Games
-
-*   [qianguyihao/Web](https://github.com/qianguyihao/Web) - 千古前端图文教程，超详细的前端入门到进阶知识库。从零开始学前端，做一名精致优雅的前端工程师。
-
-*   [GoldenMelon-Studio/chinagpt-4](https://github.com/GoldenMelon-Studio/chinagpt-4) - Linux.do
-
-*   [ivanallen/thor](https://github.com/ivanallen/thor) - 雷神项目，翻译 mit 6.824 2020
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [ccceye/computer-book](https://github.com/ccceye/computer-book) - collection of Computer Book
-
-*   [remzi-arpacidusseau/ostep-translations](https://github.com/remzi-arpacidusseau/ostep-translations) - Various translations of OSTEP can be found here. Help the cause and contribute!
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
-
-*   [bingohuang/effective-go-zh-en](https://github.com/bingohuang/effective-go-zh-en) - 《Effective Go》中英双语版
-
-*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers) - 🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。
-
-*   [RawChat/RawChat](https://github.com/RawChat/RawChat) -
-
-*   [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
-
-*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-
-*   [Snoopy1866/LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules) -
-
-*   [HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed](https://github.com/HanochShi/Supplements-ComputerNetworking-ATopDownApproach-7th-ed) - supplements material of Computer Networking: A Top-Down Approach, 7th ed. (By J.F. Kurose and K.W. Ross)
-
-*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-
-*   [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-
-*   [taishi-i/awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories) - A curated list of resources dedicated to open source GitHub repositories related to ChatGPT
-
-*   [bangumi-users/awesome-bangumi](https://github.com/bangumi-users/awesome-bangumi) - bangumi.tv 相关的坑
-
-*   [2004content/rarbg](https://github.com/2004content/rarbg) - Backup of magnets from RARBG
-
-*   [Ayagikei/LifeUp](https://github.com/Ayagikei/LifeUp) - Pure and highly customizable gamified to-do and habit-forming app.
-
-*   [KeKe-Li/data-structures-questions](https://github.com/KeKe-Li/data-structures-questions) - golang sorting algorithm and data construction.
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-
-*   [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using ChatGPT
-
-*   [WXRIW/Lyricify-App](https://github.com/WXRIW/Lyricify-App) - Lyricify (/lɪ'rɪsəfaɪ/), a fantastic app to provide scroll lyrics for Spotify (iTunes, Apple Music, Music Center, QQ Music, Netease Cloud Music, and YesPlayMusic are only supported by Lyricify 3). 一款为 Spotify 提供滚动歌词的软件。(iTunes、Apple Music、Music Center、QQ音乐、网易云音乐、YesPlayMusic 仅 Lyricify 3 支持)
-
-*   [antiden/macOS-cursors-for-Windows](https://github.com/antiden/macOS-cursors-for-Windows) - Tested in Windows 10 & 11, 4K (125%, 150%, 200%). With 2 versions, 2 types and 3 different sizes!
-
-*   [duguosheng/6.S081-All-in-one](https://github.com/duguosheng/6.S081-All-in-one) - 6.S081课程全记录，包括课程使用的书籍、论文、实验要求的中文翻译，以及实验过程记录
-
-*   [dzharii/awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
-
-*   [AugustusZ/cipher](https://github.com/AugustusZ/cipher) - Solutions for http://www.gamemastertips.com/cipher/cipher.htm
-
-*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
-
-*   [firasdib/Regex101](https://github.com/firasdib/Regex101) - This repository is currently only used for issue tracking for www.regex101.com
-
-*   [unmade/shelf-showcase](https://github.com/unmade/shelf-showcase) - An example of Shelf Cloud ready-to-run docker-compose
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [harlanhong/awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation) -
-
-*   [DejavuMoe/Smoji](https://github.com/DejavuMoe/Smoji) - Social emoji for mastodon, pleroma, misskey...
-
-*   [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-
-*   [rockbenben/LearnData](https://github.com/rockbenben/LearnData) - 开源工具、效率方法、心理学探索的自我提升笔记
-
-*   [tvvocold/how2makemoney](https://github.com/tvvocold/how2makemoney) - 帮助开发者赚钱的网站、产品/服务目录
-
-*   [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) - ADB Usage Complete / ADB 用法大全
-
-*   [githubvpn007/v2rayNvpn](https://github.com/githubvpn007/v2rayNvpn) - 翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 、外网游戏、国外游戏、vpn、vpn推荐、每天更新、上外网、外网、V2rayN、Qv2ray、V2rayW、V2RayS、Mellow、V2rayX、V2rayU、ClashX、Kitsunebi、BifrostV、i2Ray 、Quantumult、Surge 4、winXray、Qv2ray、Kitsunebi、Trojan-Qt5、代理服务器、机场、马里奥、魔兽世界、poshMark、亚马逊、虾皮、煤炉、Mercari、外贸
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
-
-*   [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
-
-*   [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
-
-*   [yoyodadada/haoruanfenxiang](https://github.com/yoyodadada/haoruanfenxiang) - 好软分享
-
-*   [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
-
-*   [1837620622/jdpro](https://github.com/1837620622/jdpro) - 京东签到，集合库，内部助力，青龙面板支持，青龙脚本
-
-*   [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-
-*   [heptameta/project-meta](https://github.com/heptameta/project-meta) -
-
-*   [vvmcat/Github-SpeedUpTool](https://github.com/vvmcat/Github-SpeedUpTool) - Github-SpeedUpTool\_Github访问加速工具
-
-*   [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
-
-*   [Heroic-Studio/Google-Mirrors](https://github.com/Heroic-Studio/Google-Mirrors) - Google谷歌、Wikipedia维基百科、谷歌学术镜像2024最新 新增各种镜像站
-
-*   [kiwibrowser/src](https://github.com/kiwibrowser/src) - Source-code used in Kiwi Browser for Android
-
-*   [yu-steven/openit](https://github.com/yu-steven/openit) - 致力于打造免费无感的翻墙环境
-
-*   [AriaLyy/Aria](https://github.com/AriaLyy/Aria) -
-
-*   [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-
-*   [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-
-*   [smlbiobot/cr](https://github.com/smlbiobot/cr) - Clash Royale: data and cards
-
-*   [anaer/Sub](https://github.com/anaer/Sub) - 自用clash订阅链接
-
-*   [selierlin/Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray) - 机场推荐/SSR V2ray节点订阅机场/镜像直连/工具推荐
-
-*   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
-
-*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
-
-*   [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses) - 😏国内外计算机的优秀课程，包含MIT、CMU等世界CS名校，🔥🔥其中包含计算机基础学科（操作系统、计算机网络、编译器、数据库、数据结构与算法等）以及人工智能\&AI等高级科目，欢迎通过PR形式贡献！
-
 ## Rust
 
 *   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
@@ -1162,6 +1164,8 @@
 
 *   [ImageMagick/ImageMagick](https://github.com/ImageMagick/ImageMagick) - 🧙‍♂️ ImageMagick 7
 
+*   [erincatto/box2d](https://github.com/erincatto/box2d) - Box2D is a 2D physics engine for games
+
 *   [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 *   [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -1226,7 +1230,7 @@
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 *   [RainManGO/vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 🎉  基于vue3 的管理端模板(Vue3 TS Vuex4  element-plus vue-i18n-next  composition-api)  vue3-admin   vue3-ts-admin
 
@@ -1527,10 +1531,6 @@
 ## MATLAB
 
 *   [davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
-
-*   [cycleuser/Stanford-CS-229](https://github.com/cycleuser/Stanford-CS-229) - A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译
-
-*   [trekhleb/machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) - 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained
 
 ## Markdown
 
