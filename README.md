@@ -1154,7 +1154,7 @@
 
 *   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 
-*   [bytedance/scene](https://github.com/bytedance/scene) - Android Single Activity Applications Framework compatible with Fragment.
+*   [bytedance/scene](https://github.com/bytedance/scene) - Android Single Activity Framework compatible with Fragment.
 
 ## C
 
