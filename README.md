@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
@@ -47,7 +48,6 @@
 *   [Vim Script](#vim-script)
 *   [Vim script](#vim-script-1)
 *   [SQL](#sql)
-*   [CSS](#css)
 *   [Scala](#scala)
 *   [PowerShell](#powershell)
 *   [TeX](#tex)
@@ -55,6 +55,20 @@
 *   [MATLAB](#matlab)
 *   [Markdown](#markdown)
 *   [SCSS](#scss)
+
+## CSS
+
+*   [nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor) - 📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/
+
+*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+
+*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+
+*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+
+*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
+
+*   [imaverickk/Tieba-Maverick-UserCSS](https://github.com/imaverickk/Tieba-Maverick-UserCSS) - A Modernization Theme for Baidu Tieba
 
 ## Java
 
@@ -928,8 +942,6 @@
 
 *   [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 
-*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
-
 ## C++
 
 *   [taku910/mecab](https://github.com/taku910/mecab) - Yet another Japanese morphological analyzer
@@ -1274,7 +1286,7 @@
 
 *   [pure-admin/vue-pure-admin](https://github.com/pure-admin/vue-pure-admin) - 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）
 
-*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern Vue admin panel built with Vue 3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
+*   [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!
 
 *   [RainManGO/vue3-composition-admin](https://github.com/RainManGO/vue3-composition-admin) - 🎉  基于vue3 的管理端模板(Vue3 TS Vuex4  element-plus vue-i18n-next  composition-api)  vue3-admin   vue3-ts-admin
 
@@ -1495,18 +1507,6 @@
 ## SQL
 
 *   [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries
-
-## CSS
-
-*   [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt) - Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-
-*   [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
-
-*   [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-
-*   [guaguaguaxia/weekly\_report](https://github.com/guaguaguaxia/weekly_report) - 简单描述工作内容，帮你生成完整周报
-
-*   [imaverickk/Tieba-Maverick-UserCSS](https://github.com/imaverickk/Tieba-Maverick-UserCSS) - A Modernization Theme for Baidu Tieba
 
 ## Scala
 
