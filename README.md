@@ -748,7 +748,7 @@
 
 *   [illacloud/illa-builder](https://github.com/illacloud/illa-builder) - Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.
 
-*   [bili-vd-bak/biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的哔哩漫游服务端。部署在Vercel HK1或CFP(调试中)。
+*   [bili-vd-bak/biliroaming-ts-server-vercel](https://github.com/bili-vd-bak/biliroaming-ts-server-vercel) - 为BiliRoaming、哔哩UWP 等提供支持。包括支持基本功能、搜索替换、黑白名单的BiliRoaming服务端。部署在Vercel HK1或CFP(调试中)。
 
 *   [spencerwooo/onedrive-vercel-index](https://github.com/spencerwooo/onedrive-vercel-index) - OneDrive public directory listing, powered by Vercel and Next.js
 
