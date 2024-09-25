@@ -16,7 +16,6 @@
 *   [JavaScript](#javascript)
 *   [Blade](#blade)
 *   [Go](#go)
-*   [Batchfile](#batchfile)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [C](#c)
@@ -40,6 +39,7 @@
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Makefile](#makefile)
+*   [Batchfile](#batchfile)
 *   [Zig](#zig)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Crystal](#crystal)
@@ -482,13 +482,9 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
-## Batchfile
+## TypeScript
 
 *   [FatPaper-1874/fatpaper-monopoly](https://github.com/FatPaper-1874/fatpaper-monopoly) - 大富翁总项目
-
-*   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
-
-## TypeScript
 
 *   [PawanOsman/ChatGPT](https://github.com/PawanOsman/ChatGPT) - OpenAI API Free Reverse Proxy
 
@@ -1635,6 +1631,10 @@
 *   [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
 
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
+
+## Batchfile
+
+*   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
 
 ## Zig
 
