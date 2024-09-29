@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Batchfile](#batchfile)
 *   [JavaScript](#javascript)
 *   [Blade](#blade)
 *   [Go](#go)
@@ -39,7 +40,6 @@
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Makefile](#makefile)
-*   [Batchfile](#batchfile)
 *   [Zig](#zig)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Crystal](#crystal)
@@ -60,7 +60,12 @@
 *   [Matlab](#matlab-1)
 *   [EJS](#ejs)
 *   [LLVM](#llvm)
-*   [Haskell](#haskell)
+
+## Batchfile
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+
+*   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
 
 ## JavaScript
 
@@ -1630,10 +1635,6 @@
 
 *   [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide) - Google 开源项目风格指南 (中文版)
 
-## Batchfile
-
-*   [shuhongfan/NavicatCracker](https://github.com/shuhongfan/NavicatCracker) - navicat 激活 Navicat所有版本破解 A keygen for Navicat 16 Navicat16破解 Navicat Keygen Navicat 16 Keygen注册机(NavicatCracker)  Navicat 16 破解  Navicat Premium 16 破解 Navicat破解 绿色版 MySQL
-
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -1753,9 +1754,5 @@
 ## LLVM
 
 *   [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
-
-## Haskell
-
-*   [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 
 *   By [rcy1314/some-starts](https://github.com/rcy1314/some-stars)
