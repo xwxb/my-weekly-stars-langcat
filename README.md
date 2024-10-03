@@ -1215,7 +1215,7 @@
 
 *   [constverum/ProxyBroker](https://github.com/constverum/ProxyBroker) - Proxy \[Finder | Checker | Server]. HTTP(S) & SOCKS :performing\_arts:
 
-*   [arcturus-script/everphoto](https://github.com/arcturus-script/everphoto) - 时光相册签到 云函数
+*   [arcturus-script/everphoto](https://github.com/arcturus-script/everphoto) - 时光相册云函数签到
 
 *   [luogu-dev/cyaron](https://github.com/luogu-dev/cyaron) - CYaRon: Yet Another Random Olympic-iNformatics test data generator
 
@@ -1463,7 +1463,7 @@
 
 *   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 *   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
