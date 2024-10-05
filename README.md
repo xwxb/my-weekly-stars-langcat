@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -25,7 +26,6 @@
 *   [Stylus](#stylus)
 *   [Vue](#vue)
 *   [Dart](#dart)
-*   [PHP](#php)
 *   [C++](#c-1)
 *   [Java](#java)
 *   [CSS](#css)
@@ -61,6 +61,28 @@
 *   [EJS](#ejs)
 *   [LLVM](#llvm)
 
+## PHP
+
+*   [codehub666/94list](https://github.com/codehub666/94list) - 百度网盘分享链接分析渲染列表辅助下载开源程序
+
+*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
+
+*   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
+
+*   [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
+
+*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+
+*   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+
+*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
+
+*   [Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based.
+
+*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
+
+*   [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) - Pinghsu,  A Typecho Theme
+
 ## Python
 
 *   [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。
@@ -87,7 +109,7 @@
 
 *   [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 
-*   [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+*   [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 
 *   [Artrajz/vits-simple-api](https://github.com/Artrajz/vits-simple-api) - A simple VITS HTTP API, developed by extending Moegoe with additional features.
 
@@ -673,8 +695,6 @@
 
 *   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 
-*   [HuanCheng65/TiebaLite](https://github.com/HuanCheng65/TiebaLite) - 贴吧 Lite
-
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -1224,26 +1244,6 @@
 *   [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
 
 *   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
-
-## PHP
-
-*   [v2board/v2board](https://github.com/v2board/v2board) - 🚀A multiple proxy protocol manage panel application interface
-
-*   [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
-
-*   [CodelyTV/php-ddd-example](https://github.com/CodelyTV/php-ddd-example) - 🐘🎯 Hexagonal Architecture + DDD + CQRS in PHP using Symfony 7
-
-*   [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
-
-*   [pandora-next/deploy](https://github.com/pandora-next/deploy) - Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-
-*   [flarum/framework](https://github.com/flarum/framework) - Simple forum software for building great communities.
-
-*   [Audi-1/sqli-labs](https://github.com/Audi-1/sqli-labs) - SQLI labs to test error based, Blind boolean based, Time based.
-
-*   [mirai-mamori/Sakurairo](https://github.com/mirai-mamori/Sakurairo) - 一个多彩、轻松上手、体验完善，具有强大自定义功能的WordPress主题（基于Sakura主题，支持简繁英日多语言）A Colorful, Easy-to-use, Perfect Experience, and Powerful Customizable WordPress Theme (Based on Theme Sakura. Support Simplified Chinese, Traditional Chinese, English and Japanese languages)
-
-*   [chakhsu/pinghsu](https://github.com/chakhsu/pinghsu) - Pinghsu,  A Typecho Theme
 
 ## C++
 
