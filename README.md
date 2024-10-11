@@ -13,6 +13,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [CSS](#css)
 *   [Shell](#shell)
 *   [JavaScript](#javascript)
@@ -37,7 +38,6 @@
 *   [GDScript](#gdscript)
 *   [Objective-C](#objective-c)
 *   [Lua](#lua)
-*   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Makefile](#makefile)
 *   [Zig](#zig)
@@ -59,6 +59,12 @@
 *   [SCSS](#scss)
 *   [Matlab](#matlab-1)
 *   [EJS](#ejs)
+
+## Swift
+
+*   [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
+
+*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 
 ## CSS
 
@@ -1160,8 +1166,6 @@
 
 *   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
 
-*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
-
 ## Batchfile
 
 *   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
@@ -1394,7 +1398,7 @@
 
 *   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
-*   [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ...
+*   [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
 
 *   [xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi) - Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv
 
@@ -1617,10 +1621,6 @@
 *   [MT-CTF/capturetheflag](https://github.com/MT-CTF/capturetheflag) - Capture the Flag game using the Minetest Voxel Engine
 
 *   [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
-
-## Swift
-
-*   [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
 
 ## Ruby
 
