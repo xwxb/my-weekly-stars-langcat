@@ -664,7 +664,7 @@
 
 *   [dreampuf/sgs](https://github.com/dreampuf/sgs) - 单页三国杀
 
-*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+*   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 *   [matheuss/google-translate-api](https://github.com/matheuss/google-translate-api) - A free and unlimited API for Google Translate :dollar::no\_entry\_sign:
 
