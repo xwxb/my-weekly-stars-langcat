@@ -866,7 +866,7 @@
 
 *   [coqui-ai/TTS](https://github.com/coqui-ai/TTS) - 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production
 
-*   [HAL9000COM/AV2Sub](https://github.com/HAL9000COM/AV2Sub) - Audio/Video to Subtitle converter with translation.
+*   [HighDoping/AV2Sub](https://github.com/HighDoping/AV2Sub) - Audio/Video to Subtitle converter with translation.
 
 *   [VepsrP/UnRen-Gideon-mod-](https://github.com/VepsrP/UnRen-Gideon-mod-) -
 
@@ -1446,7 +1446,7 @@
 
 *   [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android
 
-*   [open-ani/ani](https://github.com/open-ani/ani) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
+*   [open-ani/animeko](https://github.com/open-ani/animeko) - 一站式在线弹幕追番平台：全自动 BT + 在线多数据源聚合，离线缓存，Bangumi 收藏同步，弹幕云过滤 ... 100% Kotlin Compose Multiplatform
 
 *   [xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi) - Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv
 
@@ -1520,7 +1520,7 @@
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
-*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+*   [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
