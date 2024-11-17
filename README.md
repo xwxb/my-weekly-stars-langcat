@@ -128,7 +128,7 @@
 
 *   [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT AIGC CHATBOT
 
 *   [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 
@@ -762,8 +762,6 @@
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
-*   [rowfishjs/rowfish](https://github.com/rowfishjs/rowfish) - A better docusaurus theme and a fullstack development learn site
-
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -1221,6 +1219,8 @@
 *   [miaomiaosoft/PandaOCR](https://github.com/miaomiaosoft/PandaOCR) - PandaOCR - 多功能OCR图文识别+翻译+朗读+弹窗+公式+表格+图床+搜图+二维码
 
 *   [kansaer/dandanplay-apiNode](https://github.com/kansaer/dandanplay-apiNode) - 弹弹play资源搜索api节点
+
+*   [orchestor/book](https://github.com/orchestor/book) - 个人收藏的一些计算机方面的书
 
 ## Batchfile
 
