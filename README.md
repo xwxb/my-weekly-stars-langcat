@@ -128,7 +128,7 @@
 
 *   [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 
-*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT AIGC CHATBOT
+*   [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat ChatGPT
 
 *   [cherish-chat/xxim-server](https://github.com/cherish-chat/xxim-server) - 惺惺 —— 属于你的社交地盘！惺惺是一个100%开源社交平台，每个人都可以搭建自己的服务器，掌握数据的所有权。此APP非盈利项目！
 
